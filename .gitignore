@@ -1,0 +1,22 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB generated files
+*.mexa64
+*.mexw64
+*.mexmaci64
+*.mat
+
+# Simulink cache and generated folders
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+*.slxc
+
+# Output folders
+OUTPUT_Simulation/
+results/*.mat
+
+# OS files
+.DS_Store
+Thumbs.db
